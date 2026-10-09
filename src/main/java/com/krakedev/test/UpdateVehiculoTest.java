@@ -12,7 +12,7 @@ public class UpdateVehiculoTest {
 
 	public static void main(String[] args) {
 
-	    Vehiculo vehiculo = new Vehiculo("PDA-1235", "Chery", "Tigo 7 pro max", 2020, 15000, "naranja", true);
+	    Vehiculo vehiculo = new Vehiculo("PDA-1236", "Chery", "Tigo 7 pro max", 2020, 15000, "naranja", true, 10000);
 
 	    UpdateVehiculo.update(vehiculo);
 
