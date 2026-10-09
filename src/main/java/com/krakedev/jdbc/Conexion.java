@@ -12,7 +12,7 @@ public class Conexion {
 	
 	private static final Logger Log = LogManager.getLogger(Conexion.class);
 	
-	private static final String URL = "jdbc:postgresql://localhost:5432/tallerjdbc\",\"postgres\",\"admin";
+	private static final String URL = "jdbc:postgresql://localhost:5432/tallerjdbc";
 	private static final String USER = "postgres";
 	private static final String PASSWORD = "admin";
 	
